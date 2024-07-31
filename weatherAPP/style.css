@@ -97,8 +97,17 @@ text-align: left;
   margin-top:-6px;
 }
 
-.weather{
+/* openning screen to be blank and just show the search bar  */
+.weather{ 
   display: none;
-  
+
+}
+
+.error{
+  text-align: left;
+  margin-left: 10px;
+  font-size: 14px;
+  margin-top: 10px;
+  display:none;
 
 }
